@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="core_ui__1_phone">1_phone</string>
+    <string name="core_ui_welcome">Welcome!</string>
+    <string name="core_ui_create_account">Create your account</string>
+    <string name="core_ui_username">Username</string>
+    <string name="core_ui_email">Email</string>
+    <string name="core_ui_password">Password</string>
+    <string name="core_ui_sign_up">Sign Up</string>
+    <string name="core_ui_sign_up_or">%1$s Or sign up with %1$s</string>
+    <string name="core_ui_login_account">Login to your account</string>
+    <string name="core_ui_sign_in_or">%1$s Or sign in with %1$s</string>
+    <string name="core_ui_dont_account">Don\'t have an account?</string>
+    <string name="core_ui_sign_up_here">Sign up here</string>
+    <string name="core_ui_auth_registration_tittle">Sign Up</string>
+    <string name="core_ui_auth_login_tittle">Sign In</string>
+    <string name="core_ui_sign_in">Sign In</string>
+    <string name="core_ui_no_internet">No internet connection</string>
+    <string name="core_ui_error">Error</string>
+    <string name="core_ui_ok">OK</string>
+    <string name="core_ui_default_web_client_id">your_key</string>
+    <string name="core_ui_file_provider">com.trodar.firechat.components.fileprovider</string>
+    <string name="core_ui_notify_tittle">Tittle</string>
+    <string name="core_ui_notify_body">Message</string>
+    <string name="core_ui_notify">Notification</string>
+    <string name="core_ui_notify_send">Send</string>
+    <string name="core_ui_scna_result">Scan result:</string>
+</resources>

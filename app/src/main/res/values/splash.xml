@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FireChat.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/core_ui_keren_118_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.FireChat</item>
+    </style>
+</resources>

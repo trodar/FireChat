@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "com.trodar.datastore";
+option java_multiple_files = true;
+
+import "com/trodar/firechat/data/theme_config.proto";
+import "com/trodar/firechat/data/theme_brand.proto";
+import "com/trodar/firechat/data/user_data.proto";
+
+
+message SettingsPreferences{
+  ThemeBrandProto theme_brand = 1;
+  DarkThemeConfigProto dark_theme_config = 2;
+  bool use_dynamic_color = 3;
+  UserData user_data = 4;
+  uint64 lastUpdate = 5;
+  // NEXT AVAILABLE ID: 6
+}

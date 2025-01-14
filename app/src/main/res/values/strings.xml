@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FireChat</string>
+    <string name="facebook_client_id">93d54404597277e4eba28fb4c1d1421f</string>
+    <string name="facebook_app_id">773021638254781</string>
+</resources>
