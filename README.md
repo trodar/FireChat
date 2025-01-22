@@ -42,6 +42,7 @@ The modules are as follow:
   * [Compose](https://developer.android.com/jetpack/compose)
   * [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/) for navigation between composables
   * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) that stores, exposes and manages UI state
+  * [Type safe navigation] (https://developer.android.com/guide/navigation/design/type-safety)
 * [Firebase](https://firebase.google.com)
   * [Storage](https://firebase.google.com/docs/storage)
   * [Realtime Database](https://firebase.google.com/docs/database) 
